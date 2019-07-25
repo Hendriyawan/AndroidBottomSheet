@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Bottom Sheet</string>
+    <string name="song_name">Dear God</string>
+    <string name="artist_name">Avenged Sevenfold</string>
+    <string name="text_button_show_bottom_sheet">SHOW</string>
+    <string name="text_button_hide_bottom_sheet">HIDE</string>
+</resources>
